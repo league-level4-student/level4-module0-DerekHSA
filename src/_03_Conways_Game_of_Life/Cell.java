@@ -31,7 +31,7 @@ public class Cell implements Drawable {
 		// if (numNeighbors<2) {
 		// isAlive=false;
 		// }else if(numNeighbors>3) {
-		//isAlive = false;
+		// isAlive = false;
 		// }else {
 		// isAlive=true;
 		// }
@@ -45,8 +45,6 @@ public class Cell implements Drawable {
 			}
 		}
 	}
-
-	
 
 	public int getX() {
 		return x;
